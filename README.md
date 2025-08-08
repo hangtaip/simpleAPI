@@ -1,6 +1,6 @@
 # simpleAPI
 
-![Project Screenshot](./images/simpleAPI.jpeg "simpleAPI")
+![Project Screenshot](./assets/images/simpleAPI.jpeg "simpleAPI")
 
 ### Libraries used
 - .net
